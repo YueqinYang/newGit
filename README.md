@@ -5,6 +5,7 @@ $ git status
 
 
 $ git add index.html
+
 $ git add -A
 
 
