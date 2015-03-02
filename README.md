@@ -6,7 +6,7 @@ $ git status
 
 $ git add index.html
 
-$ git add -A
+$ git add -A //-A means all files on folder
 
 
 $ git status
